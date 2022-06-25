@@ -1,0 +1,55 @@
+#wrapper1-section {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3rem;
+    font-weight: 800;
+}
+.wrapper2-section-headlight__par {
+    font-family: 'Roboto Mono', sans-serif;
+    font-size: 1rem;
+    line-height: 2rem;
+} 
+.footer__mail,
+.nav-btn,
+.nav-small {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+.wrapper1-section__list,
+.wrapper1-section__par {
+font-family: 'Oswald', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+#wrapper2{
+    font-family: 'Roboto Mono', sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+}
+.wrapper2__art {
+    font-family: 'Roboto Mono', sans-serif;
+    font-size: 3rem;
+    font-weight: 800;
+}
+#wrapper3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+    color: rgba(0,0,0,0.5)
+}
+.abouth1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+}
+.abouth2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+}
+.wrapper3__par {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: black;
+}

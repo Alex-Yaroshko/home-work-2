@@ -1,0 +1,175 @@
+/* ОСНОВНЫЕ СТИЛИ */
+*.content {
+    background:  linear-gradient(180deg,
+     rgb(209, 255, 41) 0%, 
+    rgb(222, 255, 36) 50%, 
+    rgb(241, 255, 39) 100%);
+} 
+.nav-btn {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 18rem;
+    text-align: center;
+    font-size: 1rem;
+    height: 3rem;
+    display: inline-block; /* Строчно-блочный элемент */
+    background: rgb(226, 210, 190); /* Серый цвет фона */
+    color: rgb(0, 0, 0); /* цвет текста */
+    padding: 0.6rem 1.2rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 5px; /* Скругляем уголки */
+}
+#wrapper1-section {
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 3rem;
+}
+#wrapper2 {
+    max-width: 100%;
+    margin-bottom: auto;
+    margin-top: 2%;
+    /* margin-left: 1.5rem; */
+    background:  linear-gradient(180deg,
+    rgb(241, 255, 52) 0%, 
+   rgb(255, 252, 50) 50%, 
+   rgb(183, 255, 50) 100%);
+}
+.wrapper2__art {
+    margin-left: 3rem;
+}
+.header__logo {
+    border-radius: 5px;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 0rem;
+    width: 100%;
+    height: 8rem;
+}
+.footer__logo {
+    /* margin-bottom: auto; */
+    margin-top: 10rem;
+    width: 120px;
+    height: 46px;
+    border-radius: 5px;
+}
+.wrapper2-section-headlight__par {
+    border-radius: 5px;
+    height: 300px;
+}
+.wrapper3-section__headlight {
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 3rem;
+}
+.wrapper2-section {
+    overflow: scroll;
+    border: 2px solid black; 
+    margin-left: 15%;
+    width: 70%;
+    height: 200px; 
+}
+.wrapper1-section__list{
+    max-width: fit-content;
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 80px;
+    width: 640px;
+    height: 80px;
+}
+.wrapper3-section {
+    border: 2px solid black;
+    background-color: #969ca1;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    width: 661px;
+    height: 480px;
+    overflow-y: scroll;
+} 
+#wrapper3 {
+    border: 2px dotted black;
+    width: 100%;
+    margin-top: 2rem;
+    background:  linear-gradient(180deg,
+    rgb(241, 255, 52) 0%, 
+   rgb(255, 252, 50) 50%, 
+   rgb(183, 255, 50) 100%);
+}
+.wrapper3-section__photo {
+    width: 640px;
+    height: 480px; 
+    
+}
+.footer__mail{
+    margin:0;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    height: 32px;
+    display: inline-block; /* Строчно-блочный элемент */
+    border-radius: 5px; /*  Скругляем уголки */
+}
+.wrapper1 {
+    background:  linear-gradient(180deg,
+    rgb(241, 255, 52) 0%, 
+   rgb(255, 252, 50) 50%, 
+   rgb(183, 255, 50) 100%);
+}
+.wrapper1-section__photo {
+    margin-top: 1rem;
+    margin-left: 20rem;
+    width: 240px;
+    height: 150px;
+    border-radius: 5px;
+}
+.wrapper2-section__photo {
+    width: 640px;
+    height: 480px; 
+    margin-top: 1rem;
+    margin-left: 1rem;
+    border-radius: 5px;
+}
+.abouth1 {
+    margin-left: 35rem;
+    margin-top: 1rem;
+}
+.abouth2 {
+    border: 1px solid black;
+    width: 680px;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rems;
+}
+.contacts {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 20rem;
+    text-align: center;
+    font-size: 1rem;
+    height: 2rem;
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #969ca1; /* Серый цвет фона */
+    color: rgb(0, 0, 0); /* цвет текста */
+    /* padding: 0.6rem 1.2rem; Поля вокруг текста */
+    border-radius: 5px; /* Скругляем уголки */
+}
+.nav-small {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 25rem;
+    text-align: center;
+    font-size: 1rem;
+    height: 3rem;
+    display: inline-block; /* Строчно-блочный элемент */
+    color: rgb(0, 0, 0); /* цвет текста */
+    background-color: rgb(226, 210, 190);
+    padding: 0.6rem 1.2rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 5px; /* Скругляем уголки */
+}
+.wrapper1-section__par {
+    margin-left: 1rem;
+}
+.wrapper3__par {
+    margin-left: 1rem;
+}
